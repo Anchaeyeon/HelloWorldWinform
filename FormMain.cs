@@ -54,5 +54,10 @@ namespace HelloWorldWinform
         {
 
         }
+
+        private void 저장ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
