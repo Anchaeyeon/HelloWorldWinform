@@ -44,5 +44,15 @@ namespace HelloWorldWinform
             formAbout2.Text = "모달리스창(Modaless)";
             formAbout2.Show();
         }
+
+        private void lblTitle_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
